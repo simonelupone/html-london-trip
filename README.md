@@ -25,3 +25,7 @@ Riproducete il layout dell'immagine allegata utilizzando i tag HTML visti stamat
 ## 🔄 Requisiti GitHub  
 
 📌 **Numero minimo di push richiesti:** **6**  
+
+## Anteprima
+
+[-> PREVIEW <-](https://simonelupone.github.io/html-london-trip/)
